@@ -1,0 +1,10 @@
+
+.button {
+  outline: none;
+  border: none;
+  border: 1px solid #696868;
+  background-color: var(--main-clr);
+  color: #fff;
+  padding: 10px 12px;
+  border-radius: 12px;
+}

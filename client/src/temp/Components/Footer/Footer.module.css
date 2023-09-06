@@ -1,0 +1,14 @@
+.social-media img {
+  width: 20px;
+}
+.center-item::before {
+  position: absolute;
+  content: '';
+  width: 5px;
+  height: 5px;
+  background-color: #000;
+  top: 50%;
+  left: -8px;
+  transform: translateY(-50%);
+  border-radius: 50%;
+}

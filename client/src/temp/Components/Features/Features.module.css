@@ -1,0 +1,13 @@
+.img__resize {
+  width: 100px !important;  
+}
+.img__resize-ms {
+  width: 67px !important;
+}
+
+.feat__star {
+  width: 86px !important;
+  position: absolute;
+  top: 16px;
+  left: -65px;
+}

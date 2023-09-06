@@ -1,0 +1,30 @@
+.header {
+  background-color: var(--bg-clr);
+border-radius: 8% 8% 8% 8% / 12% 15% 15% 15% ;
+}
+.header__img {
+  border-radius: 8% 8% 8% 8% / 12% 15% 15% 15% ;
+}
+.header-shapeOne {
+  position: absolute;
+  width: 50px;
+    left: 55%;
+    top: 27%;
+  transform: translate(-50%, -50%);
+}
+.header__branch {
+  width: 150px !important;
+  position: absolute;
+  left: -94px;
+  bottom: 0px;
+}
+.header__star {
+  width: 86px !important;
+  position: absolute;
+  top: 16px;
+  left: 34%;
+}
+.indexing-z {
+  z-index: 2;
+  position: relative;
+}

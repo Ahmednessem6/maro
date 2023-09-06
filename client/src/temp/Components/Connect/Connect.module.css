@@ -1,0 +1,30 @@
+.connect {
+  background-color: var(--bg-clr);
+  border-radius: 8% 8% 8% 8% / 12% 15% 15% 15%;
+}
+.connect-list__link {
+  color: black;
+  transition: 0.3s;
+  font-weight: 500;
+}
+.connect-list__link:hover {
+  color: var(--main-clr);
+}
+.connect-list__link.active {
+  color: var(--main-clr);
+}
+.shape__img {
+  position: absolute;
+  width: 30px;
+  bottom: 106px;
+  left: 50%;
+  z-index: -1;
+}
+.connect_btn {
+  width: auto !important;
+    transition: 0.3s;
+}
+.connect_btn:hover {
+  background-color: var(--main-clr) !important;
+  color: #fff !important;
+}

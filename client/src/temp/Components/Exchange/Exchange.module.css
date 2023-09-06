@@ -1,0 +1,7 @@
+.arrow {
+  position: absolute;
+  top: -60px;
+  left: 50%;
+      width: 100px;
+    transform: translateX(-50%);
+}

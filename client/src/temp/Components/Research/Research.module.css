@@ -1,0 +1,31 @@
+.tick__img {
+  width: 30px;
+  border: 1px solid #000;
+  border-radius: 50%;
+  border-width: 2px;
+}
+.research__arrow {
+    position: absolute;
+    transform: scaleX(-1);
+    width: 60px;
+}
+.flower__img {
+  position: absolute;
+  width: 100px !important;
+  top: 0;
+  right: 3px;
+  padding: 0px !important;
+
+}
+.shape__img {
+  position: absolute;
+  width: 20px;
+  top: -22px;
+  left: 89px;
+}
+.shapeTwo__img {  
+  position: absolute;
+  width: 80px;
+  right: 42px;
+  z-index: -1;
+}
